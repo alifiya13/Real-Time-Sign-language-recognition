@@ -1,4 +1,4 @@
-# SLR project
+# Real Time Sign language recognition 
 ## Dataset
 The project is trained on a dataset consisting of 3 sign actions each containg of 30 videos, with 30 frames each video. Each frame contains 1662 MediaPipe landmarks, which represent the keypoints of the left hand, right hand pose and face, while performing sign language gestures. The dataset is used for training, testing, and validating the LSTM model.
 
